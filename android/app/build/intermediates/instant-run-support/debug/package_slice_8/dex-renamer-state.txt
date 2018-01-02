@@ -1,0 +1,4 @@
+#Tue Jan 02 08:38:25 GMT 2018
+base.0=/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
