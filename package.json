@@ -14,10 +14,7 @@
     "test": "node node_modules/jest/bin/jest.js"
   },
   "jest": {
-      "preset": "jest-expo",
-      "transformIgnorePatterns": [
-        "insulter/node_modules/jest*"
-      ]
+      "preset": "jest-expo"
     },
   "dependencies": {
     "react": "16.0.0",
