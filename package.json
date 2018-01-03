@@ -11,10 +11,11 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "node node_modules/jest/bin/jest.js --no-cache"
+    "test": "node node_modules/jest/bin/jest.js"
   },
   "jest": {
-      "preset": "jest-expo"
+      "preset": "jest-expo",
+      "testPathIgnorePatterns": ["/node_modules/"]
     },
   "dependencies": {
     "react": "16.0.0",
