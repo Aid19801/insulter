@@ -14,8 +14,7 @@
     "test": "node node_modules/jest/bin/jest.js"
   },
   "jest": {
-      "preset": "jest-expo",
-      "testPathIgnorePatterns": ["/node_modules/"]
+      "preset": "jest-expo"
     },
   "dependencies": {
     "react": "16.0.0",
