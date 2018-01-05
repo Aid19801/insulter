@@ -1,4 +1,4 @@
 echo ==== this is my shell script =====
 node testingNodeFile.js
-ls -la
+ls
 echo +++++++++ IT WORKS!!!! +++++++++
