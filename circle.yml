@@ -2,6 +2,13 @@ machine:
   node:
     version: 6.3.0
 
-test:
-  post:
-    - ./shell-script.sh
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./circleCI/deploy_prod.sh
+
+  staging:
+    branch: master
+    commands:
+      - ./circleCI/deploy_prod.sh
