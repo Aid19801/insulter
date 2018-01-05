@@ -7,8 +7,8 @@
     "babel-plugin-module-resolver": "^3.0.0",
     "jest": "^21.2.1",
     "react-test-renderer": "16.0.0-beta.5",
-    "babel-jest": "@latest",
-    "babel-core": "@latest"
+    "babel-jest": "22.0.4",
+    "babel-core": "6.26.0"
   },
   "scripts": {
     "start": "react-native start",
