@@ -3,13 +3,13 @@
 
     <item
         is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f6d2cd4dc8913067ed4166bf61529715/jars/classes.jar"
         jumboMode="false"
         min-sdk-version="16"
         optimize="true"
         revision="26.0.2"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/21.jar" />
     </item>
     <item
         is-multidex="false"
@@ -20,6 +20,16 @@
         revision="26.0.2"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6415b9dac2329628e27bca08249762b9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/19.jar" />
     </item>
     <item
         is-multidex="false"
@@ -73,7 +83,17 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7571a2ae655e339f2652f6a964668604/jars/classes.jar"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c62bac9bfcf1cfa939306ceb9010c75c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/78c9fce3bba758eccbac120f1572edcf/jars/classes.jar"
         jumboMode="false"
         min-sdk-version="16"
         optimize="true"
@@ -83,7 +103,17 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c381c07a5e53e0a683f3b16cdd545eb/jars/classes.jar"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/9cf5085459509661cc4656ca11a27f7b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0674e6b1ffa3b680eed1f9f8c6d56a90/jars/classes.jar"
         jumboMode="false"
         min-sdk-version="16"
         optimize="true"
@@ -93,13 +123,13 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/d44c63186c6355b80157b8385e5f4fe5/jars/classes.jar"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/74a02d3e3fa3166a9f9512107c3dcde2/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         min-sdk-version="16"
         optimize="true"
         revision="26.0.2"
-        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
-        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/24.jar" />
     </item>
     <item
         is-multidex="false"
@@ -133,26 +163,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        min-sdk-version="16"
-        optimize="true"
-        revision="26.0.2"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/11.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/d44c63186c6355b80157b8385e5f4fe5/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        min-sdk-version="16"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/d7df7392e0ee62271f907a1e7eee6f3c/jars/classes.jar"
         jumboMode="false"
         min-sdk-version="16"
@@ -183,6 +193,116 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0674e6b1ffa3b680eed1f9f8c6d56a90/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/54d175830ad70dee2041ea4f8fe62576/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/5e44181724f190970d3c40d10cb2853d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/81efbe78e9435be9da796cc848392617/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7571a2ae655e339f2652f6a964668604/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c381c07a5e53e0a683f3b16cdd545eb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/74a02d3e3fa3166a9f9512107c3dcde2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c3f1fe17ada00d45137c34391eb327dd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         min-sdk-version="16"
@@ -200,16 +320,6 @@
         revision="26.0.2"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
         <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/adrianthompson/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        min-sdk-version="16"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/adrianthompson/Documents/ade_dev/insulter/android/app/build/intermediates/transforms/preDex/release/17.jar" />
     </item>
 
 </items>
