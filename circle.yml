@@ -1,5 +1,6 @@
 
 general:
+  build_dir: /android/
   artifacts:
     - /home/ubuntu/insulter/android/app/build/outputs/apk/
 
