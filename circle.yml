@@ -1,5 +1,6 @@
-
 machine:
+  environment:
+    ANDROID_HOME: /usr/local/android-sdk-linux
   node:
     version: 6.3.0
 
@@ -7,10 +8,6 @@ general:
   build_dir: /android/
   artifacts:
     - /home/ubuntu/APPNAME/android/app/build/outputs/apk/
-
-machine:
-  environment:
-    ANDROID_HOME: /usr/local/android-sdk-linux
 
 dependencies:
   override:
