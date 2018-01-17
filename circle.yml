@@ -7,7 +7,7 @@ machine:
 general:
   build_dir: /android/
   artifacts:
-    - /home/ubuntu/APPNAME/android/app/build/outputs/apk/
+    - /home/ubuntu/insulter/android/app/build/outputs/apk/
 
 dependencies:
   override:
