@@ -96,10 +96,10 @@ def enableProguardInReleaseBuilds = false
 android {
     signingConfigs {
         config {
-            keyAlias 'insulter-key'
-            keyPassword 'insulter'
+            keyAlias 'keyAlias'
+            keyPassword 'keyPassword'
             storeFile file('/home/ubuntu/insulter/circleCI/insulter-keystore')
-            storePassword 'insulter'
+            storePassword 'storePassword'
         }
     }
     compileSdkVersion 23
