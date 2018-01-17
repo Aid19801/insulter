@@ -98,7 +98,7 @@ android {
         config {
             keyAlias 'insulter-key'
             keyPassword 'insulter'
-            storeFile file('/Users/adrianthompson/Desktop/insulter-keystore')
+            storeFile file('/home/ubuntu/insulter/circleCI/insulter-keystore')
             storePassword 'insulter'
         }
     }
